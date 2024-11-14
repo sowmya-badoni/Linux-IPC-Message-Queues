@@ -1,7 +1,8 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-#### NAME: ASHWINA K N
-#### REG NO : 2122223230025
+#### NAME: sowmya badoni
+#### REG NO : 2122223230211
+
 
 # AIM:
 To write a C program that receives a message from message queue and display them
